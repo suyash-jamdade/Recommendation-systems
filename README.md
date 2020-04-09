@@ -1,2 +1,2 @@
 # Recommendation-systems
-rcommendation systems based on users input
+Recommend items to users based on information taken from the user.
